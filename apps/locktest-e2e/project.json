@@ -1,0 +1,10 @@
+{
+  "name": "locktest-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/locktest-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["locktest"],
+  "// targets": "to see all targets run: nx show project locktest-e2e --web",
+  "targets": {}
+}
